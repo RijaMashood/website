@@ -1,0 +1,43 @@
+<HTML>
+<BODY>
+<H1><I>SAYLANI ONLINE ACADEMY</I>
+
+<H2><B>FRUITS LIST</B></H2>
+<OL>
+    <LI>MANGO</LI>
+    <LI>APPLE</LI>
+    <LI>BANANA</LI>
+</OL>
+<DL>
+<DT><B>MANGO</B></DT>
+<DD><I>A mango is a juicy stone fruit produced from numerous species of tropical trees belonging to the flowering plant genus Mangifera, cultivated mostly for their edible fruit.</I</DD>
+<DT><B>APPLE</B></DT>
+<DD><I>An apple is a sweet, edible fruit produced by an apple tree. Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus.</I></DD>
+<DT><B>BANANA</B></DT>
+<DD><I>A banana is an edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa.</I></DD>
+</DL>
+<H3><B>VEGETABLES LIST</B></H3>
+<UL>
+    <LI>POTATO</LI>
+    <LI>TOMATO</LI>
+    <LI>ONION</LI>
+</UL>
+<DL>
+<DT><B>POTATO</B></DT>
+<DD><I>The potato is a root vegetable native to the Americas, a starchy tuber of the plant Solanum tuberosum, and the plant itself, a perennial in the family Solanaceae.</I></DD>
+<DT><B>TOMATO</B></DT>
+<DD><I>The tomato is the edible, often red, berry of the plant Solanum lycopersicum, commonly known as a tomato plant. The species originated in western South America and Central America.</I></DD>
+<DT><B>ONION</B></DT>
+<DD><I>The onion, also known as the bulb onion or common onion, is a vegetable that is the most widely cultivated species of the genus Allium.</I></DD>
+</DL>
+
+<DL>
+<DT><B>COMPUTER</B></DT>
+<DD><I>A computer is a machine or device that performs processes, calculations and operations based on instructions provided by a software or hardware program</I></DD>
+<DT><B>MONITOR</B></DT>
+<DD><I>A monitor is an electronic visual computer display that includes a screen, circuitry and the case in which that circuitry is enclosed. Older computer monitors made use of cathode ray tubes (CRT), which made them large, heavy and inefficient</I></DD>
+<DT><B>KEYBOARD</B></DT>
+<DD><I>A computer keyboard is a typewriter-style device which uses an arrangement of buttons or keys to act as mechanical levers or electronic switches.</I></DD>
+
+</BODY>
+</HTML>
